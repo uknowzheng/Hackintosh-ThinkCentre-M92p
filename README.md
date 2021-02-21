@@ -1,6 +1,6 @@
 # ThinkCentre-M92p-Clover-Hackintosh
 联想Thinkcenter M92p tiny主机黑苹果
-[./info.png](系统截图)
+[https://github.com/uknowzheng/ThinkCentre-M92p-Clover-Hackintosh/blob/main/info.png](系统截图)
 
 显卡/网卡/蓝牙/声卡/Airdrop 均正常，完美黑苹果。
 ## 提前说明 
