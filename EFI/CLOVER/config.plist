@@ -173,6 +173,8 @@
 			<key>Linux</key>
 			<false/>
 		</dict>
+		<key>ScreenResolution</key>
+		<string>1920x1080</string>
 	</dict>
 	<key>Devices</key>
 	<dict>
